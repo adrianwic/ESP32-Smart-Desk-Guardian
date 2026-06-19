@@ -1,5 +1,7 @@
 # ESP32 Smart Desk Guardian
 
+<img width="1000" height="750" alt="esp32_zdjecie" src="https://github.com/user-attachments/assets/3e46a8f7-7af4-47d7-8ab9-ac1ee2090e2d" />
+
 ## Overview
 This is an embedded systems hardware project built on the ESP32 microcontroller, functioning as an automated proximity radar and desk security system. It actively monitors the physical environment using an ultrasonic sensor, visualizes the distance of approaching objects in real-time on a 10-segment LED bar graph, and triggers a physical reaction—raising a servo-driven barrier and flashing an alarm—when an object breaches the 12 cm security zone.
 
